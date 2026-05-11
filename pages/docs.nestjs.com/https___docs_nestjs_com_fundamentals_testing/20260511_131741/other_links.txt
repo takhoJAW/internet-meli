@@ -1,0 +1,17 @@
+/
+/assets/favicons/browserconfig.xml
+/assets/favicons/manifest.json
+chunk-A6GBSRU4.js
+chunk-AO7BAPTM.js
+chunk-HWO3INMO.js
+chunk-IPH2CUBH.js
+chunk-QQYY3UCW.js
+https://cdn.carbonads.com
+https://cdn.jsdelivr.net
+https://cdn.jsdelivr.net/npm/@docsearch/css@3
+https://docs.nestjs.com
+https://fonts.gstatic.com
+https://use.fontawesome.com/releases/v6.4.2/js/all.js
+main-UVF2NSKV.js
+polyfills-OQVFUOR5.js
+styles-2NSXE43F.css
