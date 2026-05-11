@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [Happ.linux.arm64](./Happ.linux.arm64)
+- [releases](./releases)
 - [testing](./testing)
 
 ---
